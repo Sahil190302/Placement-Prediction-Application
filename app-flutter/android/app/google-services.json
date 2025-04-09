@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36394319098",
+    "project_id": "placementprediction-5f550",
+    "storage_bucket": "placementprediction-5f550.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36394319098:android:948f3c2370c788218fdd43",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJHz86qDPVpn0AkEznJz2xtE8GyEVxebA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
